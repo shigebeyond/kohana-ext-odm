@@ -1,0 +1,14 @@
+h1. kohana基于odm的扩展
+
+h2. 概述
+
+kohana-ext包含 对kohana3框架与通用模块的扩展，都是与mongodb-odm相关的扩展。
+
+h2. 类的扩展
+
+* *Mongo_Collection_MPTT* 基于mongodb-odm实现的mptt.
+* *Mongo_Document_MPTT* 基于mongodb-odm实现的mptt.
+* *Mongo_Collection* 扩展类Mongo_Collection.
+* *Mongo_Document* 扩展类Mongo_Document.
+* *Enum* 枚举的帮助类.
+* *Formation* 表单域输出的帮助类.
